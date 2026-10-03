@@ -1,6 +1,6 @@
 # auth-system-frontend
 
-A React + Vite + Tailwind CSS v4 front end for [simple-authentication-system](https://github.com/Onileola14/simple-authentication-system) — a JWT + bcrypt auth API with role-based access control.
+A React + Vite + Tailwind CSS v4 front end for [simple-authentication-system](https://github.com/Onileola14/simple-authentication-system) — a JWT + bcrypt auth  API with role-based access control.
 
 ## Features
 
